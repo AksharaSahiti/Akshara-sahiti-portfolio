@@ -11,6 +11,7 @@
     "postcss": "^8.0.0",
     "autoprefixer": "^10.0.0",
     "react-scripts": "5.0.1"
+    "@heroicons/react": "^2.0.18",
   },
   "scripts": {
     "start": "react-scripts start",
